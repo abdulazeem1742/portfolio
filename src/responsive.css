@@ -1,0 +1,224 @@
+@media(max-width: 1600px){}
+@media(max-width: 1440px){}
+@media(max-width: 1366px){}
+@media(max-width: 1280px){}
+@media(max-width: 1200px){
+    .main-home-wrap, .contact-wrap1 {
+        height: 60vh;
+    }
+    .banner-img3 {
+        max-width: 200px;
+    }
+    .banner-title {
+        font-size: 50px;
+    }
+    .banner-img4 {
+        left: 1%;
+    }
+    .banner-img1 {
+        left: 20%;
+    }
+    .banner-img6 {
+        max-width: 120px;
+    }
+    .faq-img img {
+        max-width: 420px;
+    }
+    .about-img1 {
+        bottom: 10%;
+    }
+    .service-img2 {
+        bottom: 0%;
+    }  
+    .faq-img1 {
+        max-width: 250px;
+    } 
+    .consult-st .title-2 {
+        font-size: 30px;
+    } 
+    .main-home-wrap5 {
+        min-height: 300px;
+    }
+    .inner-img1 img {
+        max-width: 320px;
+    }
+    .footer-img2 {
+        right: 5%;
+        top: 20%;
+    }
+    .copy-right-text{
+        padding-top: 15px;
+    }
+    .banner-img1{
+        top: 5%;
+    }
+    .main-about-wrap{
+        height: 60vh;
+    }
+}
+@media(max-width: 1024px){}
+@media(max-width: 991px){
+    .about-img img {
+        max-width: 250px;
+    }
+    .inner-img1 img {
+        max-width: 280px;
+    }    
+}
+@media(max-width: 910px){
+    .banner-img3{
+        display: none;
+    }
+    .faq-img1 {
+        max-width: 200px;
+        right: 35%;
+        top: 35%;
+    }
+    .faq-img img {
+        max-width: 350px;
+    }
+    .consult-st .title-2 {
+        font-size: 25px;
+    }
+}
+@media(max-width: 768px){
+    .banner-title {
+        font-size: 45px;
+    }
+    .banner-img1{
+        display: none;
+    }
+    .banner-img7 {
+        left: 2%;
+    }
+    .banner-img5 {
+        left: 40%;
+        bottom: 15%;
+    }
+    .about-img img {
+        max-width: 200px;
+    }
+    .paragraph {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .service-card {
+        padding: 20px 15px;
+    }
+    .inner-img1 img {
+        max-width: 230px;
+    }
+    .footer-img2{
+        display: none;
+    }
+}
+@media(max-width: 767px){
+    .main-header {
+        padding: 20px 0;
+    }
+    .logo-img a:before{
+        left: 0;
+    }    
+    .main-home-wrap {
+        height: 50vh;
+        background: #41228e;
+    }
+    .about-sect .row {
+        flex-direction: column-reverse;
+    }
+    .about-img img {
+        max-width: 250px;
+    }
+    .faq-img1 {
+        right: 30%;
+        top: 65%;
+    }
+    .contact {
+        max-width: 600px;
+        margin: 0px auto 100px;
+        padding: 0px 30px;
+    }
+    .main-home-wrap4 {
+        padding: 30px 0px 100px;
+    }
+    .ft-box {
+        margin-bottom: 30px;
+    }
+    .header-nav {
+        display: none;
+    }
+    .banner-title {
+        font-size: 40px;
+    }
+    .toggle-wrap button {
+        display: block;
+    }
+    .banner-img2, .banner-img4, .banner-img5{
+        z-index: 0;
+    }
+    .portfolio-tab-btn .nav-tabs .nav-item{
+        margin: 0 20px 20px;
+    }
+    .inner-img1 img {
+        max-width: 300px;
+    }
+    .main-about-wrap, .contact-wrap1 {
+        height: 50vh;
+    }
+}
+@media(max-width: 575px){
+    .title {
+        font-size: 40px;
+    }
+    .inner-img1 img {
+        max-width: 280px;
+    }
+    .contact-sect input {
+        padding: 0;
+    }    
+    .copy-right-text {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+@media(max-width: 480px){
+    .banner-img6{
+        display: none;
+    }
+    .main-home-wrap {
+        height: 40vh;
+    }
+    .banner-title {
+        font-size: 25px;
+    }
+    .banner-img4 {
+        bottom: 70%;
+    }
+    .contact-img1 {
+        right: 25%;
+    }
+    .main-home-wrap4 {
+        padding: 30px 0px 150px;
+    }
+    .service-img1 {
+        top: 5%;
+        right: 8%;
+    }
+    .faq-img img {
+        max-width: 300px;
+    }
+    .copy-right-text {
+        padding: 10px 0 !important;
+    }    
+    .main-about-wrap, .contact-wrap1 {
+        height: 40vh;
+    }
+}
+@media(max-width: 375px){
+    .title {
+        font-size: 30px;
+    }
+    .consult-st .title-2 {
+        font-size: 20px;
+    }
+}
